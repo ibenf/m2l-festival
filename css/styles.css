@@ -1,0 +1,84 @@
+#logo{
+width:10%;
+margin-bottom:30px;
+
+}
+
+.en-tete {
+	background-color:black;
+}
+
+footer {
+color:white;
+
+}
+
+
+	:invalid { 
+		  background-color: #F0DDDD;
+		  border-color: #e88;
+		  -webkit-box-shadow: 0 0 5px rgba(255, 0, 0, .8);
+		  -moz-box-shadow: 0 0 5px rbba(255, 0, 0, .8);
+		  -o-box-shadow: 0 0 5px rbba(255, 0, 0, .8);
+		  -ms-box-shadow: 0 0 5px rbba(255, 0, 0, .8);
+		  box-shadow:0 0 5px rgba(255, 0, 0, .8);
+		}
+
+		:required {
+		  border-color: #88a;
+		  -webkit-box-shadow: 0 0 5px rgba(0, 0, 255, .5);
+		  -moz-box-shadow: 0 0 5px rgba(0, 0, 255, .5);
+		  -o-box-shadow: 0 0 5px rgba(0, 0, 255, .5);
+		  -ms-box-shadow: 0 0 5px rgba(0, 0, 255, .5);
+		  box-shadow: 0 0 5px rgba(0, 0, 255, .5);
+		}
+
+
+button {
+  background: #384313;
+  border: none;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -khtml-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  display: block;
+  font: 18px Georgia, "Times New Roman", Times, serif;
+  letter-spacing: 1px;
+  margin: auto;
+  padding: 7px 25px;
+  text-shadow: 0 1px 1px #000000;
+  text-transform: uppercase;
+}
+
+button#annuler {
+	margin-top: -35px;
+margin-left: 130px;
+}
+
+
+.msgErreur{
+color:red;
+}
+
+.error{
+	color:red;
+}
+
+
+#facebook{
+margin-top: -65px;
+margin-left:94%;
+width:40px;
+height:40px;
+
+
+}
+
+
+#twitter {
+margin-top: -105px;
+margin-left:97%;
+width:40px;
+height:40px;
+}
